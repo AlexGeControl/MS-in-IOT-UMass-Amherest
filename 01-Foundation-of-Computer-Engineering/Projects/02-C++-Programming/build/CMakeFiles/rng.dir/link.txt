@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -std=c++0x  -shared -Wl,-soname,librng.so -o librng.so CMakeFiles/rng.dir/rng.cpp.o 

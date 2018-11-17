@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x   CMakeFiles/main.dir/main.cpp.o  -o main librng.so libsorting.so -Wl,-rpath,/home/alexge/Documents/UMASS/01-Foundation-of-Computer-Engineering/Projects/02-C++-Programming/build 

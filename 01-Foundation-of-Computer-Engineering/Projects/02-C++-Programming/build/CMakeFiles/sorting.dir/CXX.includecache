@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alexge/Documents/UMASS/01-Foundation-of-Computer-Engineering/Projects/02-C++-Programming/sorting.cpp
+sorting.hpp
+/home/alexge/Documents/UMASS/01-Foundation-of-Computer-Engineering/Projects/02-C++-Programming/sorting.hpp
+
+/home/alexge/Documents/UMASS/01-Foundation-of-Computer-Engineering/Projects/02-C++-Programming/sorting.hpp
+vector
+-
+

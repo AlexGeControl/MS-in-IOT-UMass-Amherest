@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alexge/Documents/UMASS/01-Foundation-of-Computer-Engineering/Projects/02-C++-Programming/rng.cpp
+rng.hpp
+/home/alexge/Documents/UMASS/01-Foundation-of-Computer-Engineering/Projects/02-C++-Programming/rng.hpp
+random
+-
+algorithm
+-
+iterator
+-
+functional
+-
+
+/home/alexge/Documents/UMASS/01-Foundation-of-Computer-Engineering/Projects/02-C++-Programming/rng.hpp
+vector
+-
+
